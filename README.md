@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔊 Creating my first web3 content house 
+❤️ NFT hodling
+🖌️ Community-builder & content creator from head to toe
+🌱 I build on Solidity 
+👯 I’m looking to collaborate on WEb3
+📫 How to reach me: Google Pooria Arab

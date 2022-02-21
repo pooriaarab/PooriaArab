@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [18 things I learned about Crypto in my first 9 months](https://medium.com/geekculture/18-things-i-learned-about-crypto-in-my-first-9-months-9540e9280d75?source=rss-ddb1998d3f52------2)
 - [Universities and 9–5 jobs are dead — here’s why](https://medium.com/geekculture/universities-and-9-5-jobs-are-dead-heres-why-9ad4802f249b?source=rss-ddb1998d3f52------2)
 - [Become a Blockchain developer today and you’ll never have to worry about finding a job](https://medium.com/geekculture/become-a-blockchain-developer-today-5479f8c583f2?source=rss-ddb1998d3f52------2)
 - [8 easy steps to becoming an Anonymous Developer](https://medium.com/geekculture/8-easy-steps-to-becoming-an-anonymous-developer-348736c8c4e9?source=rss-ddb1998d3f52------2)
 - [3 easy steps to become a crypto person](https://blog.cryptostars.is/3-easy-steps-to-become-a-crypto-person-5b05cf1eccf4?source=rss-ddb1998d3f52------2)
-- [A beginner’s guide to NFTs — history, utility, platforms, art, and academia part 4](https://blog.cryptostars.is/a-beginners-guide-to-nfts-history-utility-platforms-art-and-academia-part-4-8ccba3d4126a?source=rss-ddb1998d3f52------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

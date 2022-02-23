@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What I learned about DAOs as a founder](https://medium.com/geekculture/what-i-learned-about-daos-as-a-founder-f93fe47f1c69?source=rss-ddb1998d3f52------2)
 - [10 platforms to land your first Web3 Job](https://medium.com/geekculture/10-platforms-to-land-your-first-web3-job-9ee629576ae6?source=rss-ddb1998d3f52------2)
 - [What to do when your NFT Discord server is hacked — for Founders](https://medium.com/geekculture/what-to-do-when-your-nft-discord-server-is-hacked-for-founders-9a2751d4d066?source=rss-ddb1998d3f52------2)
 - [18 things I learned about Crypto in my first 9 months](https://medium.com/geekculture/18-things-i-learned-about-crypto-in-my-first-9-months-9540e9280d75?source=rss-ddb1998d3f52------2)
 - [Universities and 9–5 jobs are dead — here’s why](https://medium.com/geekculture/universities-and-9-5-jobs-are-dead-heres-why-9ad4802f249b?source=rss-ddb1998d3f52------2)
-- [Become a Blockchain developer today and you’ll never have to worry about finding a job](https://medium.com/geekculture/become-a-blockchain-developer-today-5479f8c583f2?source=rss-ddb1998d3f52------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

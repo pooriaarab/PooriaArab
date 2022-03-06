@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Web3 for free](https://medium.com/coinmonks/learn-web3-for-free-349af2e70237?source=rss-ddb1998d3f52------2)
 - [NFT collection enrages Web3 community on Twitter](https://medium.com/coinmonks/nft-collection-enrages-web3-community-on-twitter-4e0b747ff2eb?source=rss-ddb1998d3f52------2)
 - [6 ways founders must adapt to Web3 practices](https://medium.com/coinmonks/6-ways-founders-must-adapt-to-web3-practices-b6cc29d42a60?source=rss-ddb1998d3f52------2)
 - [Why Invisible Friends is the “Most Successful NFT brand launch”](https://medium.com/geekculture/why-invisible-friends-is-the-most-successful-nft-brand-launch-d51286e9343b?source=rss-ddb1998d3f52------2)
 - [12 common crypto scams](https://medium.com/geekculture/12-common-crypto-scams-a4bb59dcf62a?source=rss-ddb1998d3f52------2)
-- [What I learned about DAOs as a founder](https://medium.com/geekculture/what-i-learned-about-daos-as-a-founder-f93fe47f1c69?source=rss-ddb1998d3f52------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

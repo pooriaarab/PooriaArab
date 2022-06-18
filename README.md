@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Say no to sex but not to networking — introvert’s edition](https://medium.com/@pooriaarab/say-no-to-sex-but-not-to-networking-introverts-edition-ee38be4f1e93?source=rss-ddb1998d3f52------2)
 - [Its 2050 and you’re in the metaverse. What can you do with your NFTs?](https://medium.com/@pooriaarab/its-2050-and-youre-in-the-metaverse-what-can-you-do-with-your-nfts-875471adea5b?source=rss-ddb1998d3f52------2)
 - [Twitter memes taught me how to live my 20s](https://medium.com/geekculture/twitter-memes-taught-me-how-to-live-my-20s-89f1c14344bb?source=rss-ddb1998d3f52------2)
 - [12 things Web3 scammers don’t want you to know](https://medium.com/geekculture/12-things-web3-scammers-dont-want-you-to-know-24a79a02c8f8?source=rss-ddb1998d3f52------2)
 - [Ultimate guide to DAOs](https://medium.com/geekculture/ultimate-guide-to-daos-81d674dbb2c4?source=rss-ddb1998d3f52------2)
-- [How Web3 media is taking over Netflix?](https://medium.com/coinmonks/how-web3-media-is-taking-over-netflix-1ac352b4e64b?source=rss-ddb1998d3f52------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Pooria</h1>
-<h3 align="center">Web3 enthusiast, NFT hodler, Developer, and Content-creator</h3>
+<h3 align="center">Managing Partner at example</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooriaarab&label=Profile%20views&color=0e75b6&style=flat" alt="pooriaarab" /> </p>
 
-- 🔭 I’m currently working on [my personal brand](https://www.pooria.xyz)
+- 🔭 I’m currently working on [example](https://www.example.xyz)
 
 - 🌱 I’m currently improving **JS (React), TS, Web3.JS, and Solidity development**
 
-- 👯 I’m looking to collaborate on **anything Web3 related if I got the time and am interested in it**
+- 👯 I’m looking to collaborate on **anything VC, startup, AI, Web3, or Creator Economy related if I got the time and am interested in it**
 
-- 📝 I regularly write articles on [https://medium.com/@pooriaarab](https://medium.com/@pooriaarab)
+- 📝 I barely regularly write articles on [https://medium.com/@pooriaarab](https://medium.com/@pooriaarab)
 
-- 💬 Ask me about **life, web3 stuff, or peanut butter**
+- 💬 Ask me about **life, tech stuff, or peanut butter**
 
 - 📫 How to reach me **hello@private-repo-4a88**
 
 - 📄 Know about my experiences [https://linkedin.com/in/pooriaarab](https://linkedin.com/in/pooriaarab)
 
-- ⚡ Fun fact **I let go of a $250k scholarship to pursue my projects in Web3 :)**
+- ⚡ Fun fact ****
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

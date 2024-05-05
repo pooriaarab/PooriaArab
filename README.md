@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Say no to sex but not to networking — introvert’s edition](https://medium.com/@pooriaarab/say-no-to-sex-but-not-to-networking-introverts-edition-ee38be4f1e93?source=rss-ddb1998d3f52------2)
-- [Its 2050 and you’re in the metaverse. What can you do with your NFTs?](https://medium.com/@pooriaarab/its-2050-and-youre-in-the-metaverse-what-can-you-do-with-your-nfts-875471adea5b?source=rss-ddb1998d3f52------2)
-- [Twitter memes taught me how to live my 20s](https://medium.com/geekculture/twitter-memes-taught-me-how-to-live-my-20s-89f1c14344bb?source=rss-ddb1998d3f52------2)
-- [12 things Web3 scammers don’t want you to know](https://medium.com/geekculture/12-things-web3-scammers-dont-want-you-to-know-24a79a02c8f8?source=rss-ddb1998d3f52------2)
-- [Ultimate guide to DAOs](https://medium.com/geekculture/ultimate-guide-to-daos-81d674dbb2c4?source=rss-ddb1998d3f52------2)
+- [Bored Ape Yacht Club vs. World of Women](https://medium.com/@pooriaarab/bored-ape-yacht-club-vs-world-of-women-579b7990cfb3?source=rss-ddb1998d3f52------2)
+- [Top 5 side hustles you can start with AI](https://medium.com/@pooriaarab/top-5-side-hustles-you-can-start-with-ai-edd2aba0be40?source=rss-ddb1998d3f52------2)
+- [Web 3 gaming 101](https://medium.com/@pooriaarab/web-3-gaming-101-fdfcea40c6c7?source=rss-ddb1998d3f52------2)
+- [How AI will replace your parents?](https://medium.com/@pooriaarab/how-ai-will-replace-your-parents-230868902696?source=rss-ddb1998d3f52------2)
+- [You don’t need to code in 2023](https://medium.com/@pooriaarab/you-dont-need-to-code-in-2023-729580e6d6c1?source=rss-ddb1998d3f52------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

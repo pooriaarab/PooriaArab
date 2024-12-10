@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooria</h1>
-<h3 align="center">Managing Partner at Beeloud</h3>
+<h3 align="center">Learn AI to grow your business</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooriaarab&label=Profile%20views&color=0e75b6&style=flat" alt="pooriaarab" /> </p>
 

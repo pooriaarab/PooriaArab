@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooriaarab&label=Profile%20views&color=0e75b6&style=flat" alt="pooriaarab" /> </p>
 
-- 🔭 I’m currently working on [Beeloud](https://www.beeloud.xyz)
+- 🌱 I’m currently using **Cursor, Cloudflare Workers, and React**
 
-- 🌱 I’m currently improving **JS (React), TS, Web3.JS, and Solidity development**
-
-- 👯 I’m looking to collaborate on **anything VC, startup, AI, Web3, or Creator Economy related if I got the time and am interested in it**
+- 👯 I’m looking to collaborate on **anything VC, startup, AI, or Creator Economy related if I got the time and am interested in it**
 
 - 📝 I barely regularly write articles on [https://medium.com/@pooriaarab](https://medium.com/@pooriaarab)
 

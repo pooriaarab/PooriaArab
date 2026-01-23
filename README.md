@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooriaarab&label=Profile%20views&color=0e75b6&style=flat" alt="pooriaarab" /> </p>
 
-- 🌱 I’m currently using **Cursor, Cloudflare Workers, and React**
+- 🌱 I’m currently vibing with Claude
 
 - 👯 I’m looking to collaborate on **anything VC, startup, AI, or Creator Economy related if I got the time and am interested in it**
 
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact ****
 
-### Blogs posts
+### Blogs posts (deprecated)
 <!-- BLOG-POST-LIST:START -->
 - [Bored Ape Yacht Club vs. World of Women](https://medium.com/@pooriaarab/bored-ape-yacht-club-vs-world-of-women-579b7990cfb3?source=rss-ddb1998d3f52------2)
 - [Top 5 side hustles you can start with AI](https://medium.com/@pooriaarab/top-5-side-hustles-you-can-start-with-ai-edd2aba0be40?source=rss-ddb1998d3f52------2)

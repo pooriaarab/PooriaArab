@@ -5,13 +5,11 @@
 
 - 🌱 I'm currently vibing with Claude
 
-- 👯 I'm looking to collaborate on **anything VC, startup, AI, or Creator Economy related if I got the time and am interested in it**
-
-- 📝 I barely regularly write articles on [https://medium.com/@pooriaarab](https://medium.com/@pooriaarab)
+- 👯 I'm looking to collaborate on **anything VC, startup, Vibe coding, AI, or Creator Economy related if I got the time and am interested in it**
 
 - 💬 Ask me about **life, tech stuff, or peanut butter**
 
-- 📫 How to reach me **hello@pooriaarab.com**
+- 📫 How to reach me (dm on X @pooria_arab)
 
 - 📄 Know about my experiences [https://linkedin.com/in/pooriaarab](https://linkedin.com/in/pooriaarab)
 

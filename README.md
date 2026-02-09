@@ -23,7 +23,7 @@
       <h3><a href="https://github.com/pooriaarab/gitmarkdown">GitMarkdown</a></h3>
       <p>A collaborative markdown editor with two-way GitHub sync, real-time collaboration, and AI-powered editing. Google Docs meets GitHub for Markdown.</p>
       <p><b>Built with:</b> Next.js 16 · Tiptap v3 · Firebase · Yjs · Vercel AI SDK</p>
-      <a href="https://gitmarkdown-app.netlify.app">🌐 Live Demo</a> · <a href="https://github.com/pooriaarab/gitmarkdown">📦 Repo</a>
+    </a> · <a href="https://github.com/pooriaarab/gitmarkdown">📦 Repo</a>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/pooriaarab/x-article-to-video">X Article to Video</a></h3>

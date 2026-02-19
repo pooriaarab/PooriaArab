@@ -13,9 +13,25 @@
 ![Remotion](https://img.shields.io/badge/-Remotion-5B37BF?style=flat-square&logo=remotion&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+> Ship beats perfect. Build fast, learn faster, vibe always.
+
 - Looking to collaborate on **anything VC, startup, Vibe coding, AI, or Creator Economy related**
 
 - Ask me about **life, tech stuff, or peanut butter**
+
+---
+
+## What I'm Doing
+
+- Building **AI-native developer tools** with Claude Code at ludicrous speed
+- Exploring how **vibe coding** changes everything about software development
+- Open-sourcing everything I build — [sponsor my work](https://github.com/sponsors/pooriaarab)
+
+---
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/pooriaarab)
 
 ---
 
@@ -25,12 +41,6 @@
 - **[VibeAds](https://github.com/pooriaarab/vibeads)** - Contextual dev tool discovery for Claude Code — powered by a16z portfolio. Earn free credits while you vibe-code.
 - **[GitMarkdown](https://github.com/pooriaarab/gitmarkdown)** - Collaborative markdown editor with two-way GitHub sync, real-time collaboration, and AI-powered editing. Google Docs meets GitHub.
 - **[X Article to Video](https://github.com/pooriaarab/x-article-to-video)** - Turn your X (Twitter) articles into videos powered by Grok. Automated content repurposing from text to video.
-
----
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/pooriaarab)
 
 ---
 

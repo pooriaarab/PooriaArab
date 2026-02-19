@@ -19,14 +19,6 @@
 
 ---
 
-## What I'm Doing
-
-- Building **AI-native developer tools** with Claude Code at ludicrous speed
-- Exploring how **vibe coding** changes everything about software development
-- Open-sourcing everything I build — [sponsor my work](https://github.com/sponsors/pooriaarab)
-
----
-
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/pooriaarab)

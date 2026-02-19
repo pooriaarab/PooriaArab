@@ -32,8 +32,6 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/pooriaarab)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pooriaarab&show_icons=true&locale=en" alt="pooriaarab" /></p>
-
 ---
 
 ## Connect

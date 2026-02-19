@@ -23,13 +23,27 @@
       <h3><a href="https://github.com/pooriaarab/gitmarkdown">GitMarkdown</a></h3>
       <p>A collaborative markdown editor with two-way GitHub sync, real-time collaboration, and AI-powered editing. Google Docs meets GitHub for Markdown.</p>
       <p><b>Built with:</b> Next.js 16 · Tiptap v3 · Firebase · Yjs · Vercel AI SDK</p>
-    </a> · <a href="https://github.com/pooriaarab/gitmarkdown">📦 Repo</a>
+    <a href="https://github.com/pooriaarab/gitmarkdown">📦 Repo</a>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/pooriaarab/x-article-to-video">X Article to Video</a></h3>
       <p>Turn your X (Twitter) articles into videos powered by Grok. Automated content repurposing from text to video.</p>
       <p><b>Built with:</b> TypeScript · Remotion · Grok AI</p>
       <a href="https://github.com/pooriaarab/x-article-to-video">📦 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/pooriaarab/vibenotifications">VibeNotifications</a></h3>
+      <p>Customizable notifications for Claude Code — GitHub PRs, Slack DMs, stock prices, and more while you code.</p>
+      <p><b>Built with:</b> Node.js · Claude Code Hooks · Plugin Architecture</p>
+      <a href="https://github.com/pooriaarab/vibenotifications">📦 Repo</a>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/pooriaarab/vibeads">VibeAds</a></h3>
+      <p>Contextual dev tool discovery for Claude Code — powered by a16z portfolio. Earn free credits while you vibe-code.</p>
+      <p><b>Built with:</b> Node.js · Claude Code Hooks · MCP</p>
+      <a href="https://github.com/pooriaarab/vibeads">📦 Repo</a>
     </td>
   </tr>
 </table>

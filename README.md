@@ -13,8 +13,6 @@
 ![Remotion](https://img.shields.io/badge/-Remotion-5B37BF?style=flat-square&logo=remotion&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-> Ship beats perfect. Build fast, learn faster, vibe always.
-
 - Looking to collaborate on **anything VC, startup, Vibe coding, AI, or Creator Economy related**
 
 - Ask me about **life, tech stuff, or peanut butter**

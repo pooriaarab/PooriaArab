@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooriaarab&label=Profile%20views&color=0e75b6&style=flat" alt="pooriaarab" /> </p>
 
-[![Twitter](https://img.shields.io/badge/-@pooria__arab-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pooria_arab)
+[![X](https://img.shields.io/badge/-pooria__arab-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/pooria_arab)
 [![LinkedIn](https://img.shields.io/badge/-pooriaarab-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pooriaarab)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/channel/uc6oyhqzdwwvjnor_bj3r-7g?sub_confirmation=1)
-[![Medium](https://img.shields.io/badge/-@pooriaarab-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pooriaarab)
-[![Dev.to](https://img.shields.io/badge/-pooriaarab-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/pooriaarab)
+[![YouTube](https://img.shields.io/badge/-pooriaarab-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/channel/uc6oyhqzdwwvjnor_bj3r-7g?sub_confirmation=1)
+[![Medium](https://img.shields.io/badge/-pooriaarab-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pooriaarab)
+[![Dev.to](https://img.shields.io/badge/-pooriaarab-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/pooriaarab)
 [![Instagram](https://img.shields.io/badge/-pooria.arab-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/pooria.arab/)
-[![Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/pooriaarab)
 
 > Ship beats perfect. Build fast, learn faster, vibe always.
 

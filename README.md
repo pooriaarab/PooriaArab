@@ -8,7 +8,19 @@
 [![YouTube](https://img.shields.io/badge/-pooriaarab-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/channel/uc6oyhqzdwwvjnor_bj3r-7g?sub_confirmation=1)
 [![Instagram](https://img.shields.io/badge/-pooria.arab-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/pooria.arab/)
 
-- Down to collab on **VC, startup, Vibe coding, AI, Creator Economy, or Peanut Butter related**
+> Ship beats perfect. Build fast, learn faster, vibe always.
+
+- Looking to collaborate on **anything VC, startup, Vibe coding, AI, or Creator Economy related**
+
+- Ask me about **life, tech stuff, or peanut butter**
+
+---
+
+## What I'm Doing
+
+- Building **AI-native developer tools** with Claude Code at ludicrous speed
+- Exploring how **vibe coding** changes everything about software development
+- Open-sourcing everything I build
 
 ---
 
@@ -20,7 +32,7 @@
 
 ## Projects
 
-- **[VibeNotifications](https://github.com/pooriaarab/vibenotifications)** - Customizable notifications for Claude Code — GitHub PRs, Slack DMs, stock prices, and more while you code.
-- **[VibeAds](https://github.com/pooriaarab/vibeads)** - Contextual dev tool discovery for Claude Code — powered by a16z portfolio. Earn free credits while you vibe-code.
-- **[GitMarkdown](https://github.com/pooriaarab/gitmarkdown)** - Collaborative markdown editor with two-way GitHub sync, real-time collaboration, and AI-powered editing. Google Docs meets GitHub.
-- **[X Article to Video](https://github.com/pooriaarab/x-article-to-video)** - Turn your X (Twitter) articles into videos powered by Grok. Automated content repurposing from text to video.
+- **[VibeNotifications](https://github.com/pooriaarab/vibenotifications)** - Real-time notifications for Claude Code — GitHub, Slack, stocks, and more.
+- **[VibeAds](https://github.com/pooriaarab/vibeads)** - Contextual dev tool discovery for Claude Code, powered by a16z.
+- **[GitMarkdown](https://github.com/pooriaarab/gitmarkdown)** - Collaborative markdown editor with two-way GitHub sync. Google Docs meets GitHub.
+- **[X Article to Video](https://github.com/pooriaarab/x-article-to-video)** - Turn X articles into videos powered by Grok.

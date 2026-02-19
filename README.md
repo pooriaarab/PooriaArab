@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pooria</h1>
-<h3 align="center">Learn AI to grow your business</h3>
+<h3 align="center">Vibing everyday</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooriaarab&label=Profile%20views&color=0e75b6&style=flat" alt="pooriaarab" /> </p>
 
@@ -12,8 +12,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Remotion](https://img.shields.io/badge/-Remotion-5B37BF?style=flat-square&logo=remotion&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-> Deep in vibe-coding mode — building AI-native tools with Claude Code at ludicrous speed.
 
 - Looking to collaborate on **anything VC, startup, Vibe coding, AI, or Creator Economy related**
 

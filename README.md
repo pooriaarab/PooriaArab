@@ -8,20 +8,7 @@
 [![YouTube](https://img.shields.io/badge/-pooriaarab-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/channel/uc6oyhqzdwwvjnor_bj3r-7g?sub_confirmation=1)
 [![Instagram](https://img.shields.io/badge/-pooria.arab-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/pooria.arab/)
 
-> Ship beats perfect. Build fast, learn faster, vibe always.
-
-- Looking to collaborate on **anything VC, startup, Vibe coding, AI, or Creator Economy related**
-
-- Ask me about **life, tech stuff, or peanut butter**
-
----
-
-## What I'm Doing
-
-- Building **AI-native developer tools** with Claude Code at ludicrous speed
-- Exploring how **vibe coding** changes everything about software development
-- Open-sourcing everything I build
-
+- DM me to collab on **VC, startup, Vibe coding, AI, Creator Economy, or Peanut Butter related stuff**
 ---
 
 ## GitHub Activity

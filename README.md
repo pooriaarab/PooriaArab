@@ -4,10 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooriaarab&label=Profile%20views&color=0e75b6&style=flat" alt="pooriaarab" /> </p>
 
 [![X](https://img.shields.io/badge/-pooria__arab-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/pooria_arab)
-[![LinkedIn](https://img.shields.io/badge/-pooriaarab-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pooriaarab)
+[![LinkedIn](https://img.shields.io/badge/-pooriaarab-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/pooriaarab)
 [![YouTube](https://img.shields.io/badge/-pooriaarab-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/channel/uc6oyhqzdwwvjnor_bj3r-7g?sub_confirmation=1)
-[![Medium](https://img.shields.io/badge/-pooriaarab-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pooriaarab)
-[![Dev.to](https://img.shields.io/badge/-pooriaarab-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/pooriaarab)
 [![Instagram](https://img.shields.io/badge/-pooria.arab-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/pooria.arab/)
 
 > Ship beats perfect. Build fast, learn faster, vibe always.

@@ -20,6 +20,6 @@
 ## Projects
 
 - **[VibeNotifications](https://github.com/pooriaarab/vibenotifications)** - Real-time notifications for Claude Code — GitHub, Slack, stocks, and more.
-- **[VibeAds](https://github.com/pooriaarab/vibeads)** - Contextual dev tool discovery for Claude Code, powered by a16z.
+- **[VibeAds](https://github.com/pooriaarab/vibeads)** - Contextual dev tool discovery for Claude Code, powered by a16z portfolio.
 - **[GitMarkdown](https://github.com/pooriaarab/gitmarkdown)** - Collaborative markdown editor with two-way GitHub sync. Google Docs meets GitHub.
 - **[X Article to Video](https://github.com/pooriaarab/x-article-to-video)** - Turn X articles into videos powered by Grok.

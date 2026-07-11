@@ -23,3 +23,4 @@
 - **[VibeAds](https://github.com/pooriaarab/vibeads)** - Contextual dev tool discovery for Claude Code, powered by a16z portfolio.
 - **[GitMarkdown](https://github.com/pooriaarab/gitmarkdown)** - Collaborative markdown editor with two-way GitHub sync. Google Docs meets GitHub.
 - **[X Article to Video](https://github.com/pooriaarab/x-article-to-video)** - Turn X articles into videos powered by Grok.
+- **[slackclaw](https://github.com/pooriaarab/slackclaw)** - Mirrors your Slack workspace into local SQLite with full-text search — no bot token, no admin approval, reads Slack Desktop's own local cache.

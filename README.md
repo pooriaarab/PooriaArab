@@ -19,6 +19,8 @@
 
 ## Projects
 
+- **[clis](https://github.com/pooriaarab/clis)** - Working CLIs for ad-platform APIs (Google Ads, Reddit Ads, Meta Ads) — generated from each platform's real API spec, hand-verified against live accounts.
+- **[skills](https://github.com/pooriaarab/skills)** - Claude Code skills for AI-aware development and life organization.
 - **[slackclaw](https://github.com/pooriaarab/slackclaw)** - Mirrors your Slack workspace into local SQLite with full-text search — no bot token, no admin approval, reads Slack Desktop's own local cache.
 - **[VibeNotifications](https://github.com/pooriaarab/vibenotifications)** - Real-time notifications for Claude Code — GitHub, Slack, stocks, and more.
 - **[VibeAds](https://github.com/pooriaarab/vibeads)** - Contextual dev tool discovery for Claude Code, powered by a16z portfolio.

@@ -19,10 +19,11 @@
 
 ## Projects
 
-- **[clis](https://github.com/pooriaarab/clis)** - Working CLIs for ad-platform APIs (Google Ads, Reddit Ads, Meta Ads) — generated from each platform's real API spec, hand-verified against live accounts.
+- **[offrouter](https://github.com/pooriaarab/offrouter)** - Claude Code PR reviews, CI/CD checks, and automatic npm publishing — routes your PRs to green and shipped.
+- **[clis](https://github.com/pooriaarab/clis)** - Working CLIs for ad-platform APIs (Google Ads, Reddit Ads, Meta Ads) â generated from each platform's real API spec, hand-verified against live accounts.
 - **[skills](https://github.com/pooriaarab/skills)** - Claude Code skills for AI-aware development and life organization.
-- **[slackclaw](https://github.com/pooriaarab/slackclaw)** - Mirrors your Slack workspace into local SQLite with full-text search — no bot token, no admin approval, reads Slack Desktop's own local cache.
-- **[VibeNotifications](https://github.com/pooriaarab/vibenotifications)** - Real-time notifications for Claude Code — GitHub, Slack, stocks, and more.
+- **[slackclaw](https://github.com/pooriaarab/slackclaw)** - Mirrors your Slack workspace into local SQLite with full-text search â no bot token, no admin approval, reads Slack Desktop's own local cache.
+- **[VibeNotifications](https://github.com/pooriaarab/vibenotifications)** - Real-time notifications for Claude Code â GitHub, Slack, stocks, and more.
 - **[VibeAds](https://github.com/pooriaarab/vibeads)** - Contextual dev tool discovery for Claude Code, powered by a16z portfolio.
 - **[GitMarkdown](https://github.com/pooriaarab/gitmarkdown)** - Collaborative markdown editor with two-way GitHub sync. Google Docs meets GitHub.
 - **[X Article to Video](https://github.com/pooriaarab/x-article-to-video)** - Turn X articles into videos powered by Grok.

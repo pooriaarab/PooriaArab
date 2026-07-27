@@ -19,7 +19,7 @@
 
 ## Projects
 
-- **[offrouter](https://github.com/pooriaarab/offrouter)** - Claude Code PR reviews, CI/CD checks, and automatic npm publishing — routes your PRs to green and shipped.
+- **[offrouter](https://github.com/pooriaarab/offrouter)** - model routing to subscriptionmaxx, local-first
 - **[clis](https://github.com/pooriaarab/clis)** - Working CLIs for ad-platform APIs (Google Ads, Reddit Ads, Meta Ads) — generated from each platform's real API spec, hand-verified against live accounts.
 - **[skills](https://github.com/pooriaarab/skills)** - Claude Code skills for AI-aware development and life organization.
 - **[slackclaw](https://github.com/pooriaarab/slackclaw)** - Mirrors your Slack workspace into local SQLite with full-text search — no bot token, no admin approval, reads Slack Desktop's own local cache.

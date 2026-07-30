@@ -19,6 +19,13 @@
 
 ## Projects
 
+- **[vibedate](https://github.com/pooriaarab/vibedating)** - Dating by tokens — matched by usage league across agentic CLIs. Local-first.
+- **[vibedonate](https://github.com/pooriaarab/vibedonate)** - BitTorrent-style mesh for AI inference — donate spare local compute across agentic CLIs.
+- **[vibelive](https://github.com/pooriaarab/vibelive)** - Multiplayer for agentic coding terminals — shared sessions with live cursors, presence, and chat.
+- **[vibemovie](https://github.com/pooriaarab/vibemovie)** - Turns an agent coding session into a short recap video.
+- **[viberadio-fm](https://github.com/pooriaarab/viberadio)** - Turns an agent's output into audio — narration, podcast, or music.
+- **[vibeshare-live](https://github.com/pooriaarab/vibeshare)** - Share a live agent coding session by URL — spectate read-only or invite into the session.
+- **[vibenetwork](https://github.com/pooriaarab/vibenetwork)** - Decentralized social network for AI coders — P2P, verified-by-usage ed25519 identity.
 - **[offrouter](https://github.com/pooriaarab/offrouter)** - model routing to subscriptionmaxx, local-first
 - **[clis](https://github.com/pooriaarab/clis)** - Working CLIs for ad-platform APIs (Google Ads, Reddit Ads, Meta Ads) — generated from each platform's real API spec, hand-verified against live accounts.
 - **[skills](https://github.com/pooriaarab/skills)** - Claude Code skills for AI-aware development and life organization.

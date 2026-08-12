@@ -17,19 +17,6 @@
 
 ---
 
-## AI workspace
-
-My portable `.agents` setup — one source of truth for skills, commands, scripts, and prompts, symlinked into every agent CLI. The [`agents`](https://github.com/pooriaarab/agents) repo is the hub.
-
-- **[agents](https://github.com/pooriaarab/agents)** - The hub — a portable `.agents` folder symlinked into every agent CLI.
-- **[skills](https://github.com/pooriaarab/skills)** - Reusable agent skills for AI-aware development and life organization.
-- **[clis](https://github.com/pooriaarab/clis)** - Working CLIs for ad-platform APIs, hand-verified against live accounts.
-- **[commands](https://github.com/pooriaarab/commands)** - Slash commands and shortcuts for agent CLIs.
-- **[scripts](https://github.com/pooriaarab/scripts)** - Automation scripts that run my agent ops.
-- **[prompts](https://github.com/pooriaarab/prompts)** - Prompts I have refined and reuse across agent CLIs.
-
----
-
 ## Projects
 
 - **[vibedate](https://github.com/pooriaarab/vibedating)** - Dating by tokens — matched by usage league across agentic CLIs. Local-first.
@@ -45,3 +32,16 @@ My portable `.agents` setup — one source of truth for skills, commands, script
 - **[VibeAds](https://github.com/pooriaarab/vibeads)** - Contextual dev tool discovery for Claude Code, powered by a16z portfolio.
 - **[GitMarkdown](https://github.com/pooriaarab/gitmarkdown)** - Collaborative markdown editor with two-way GitHub sync. Google Docs meets GitHub.
 - **[X Article to Video](https://github.com/pooriaarab/x-article-to-video)** - Turn X articles into videos powered by Grok.
+
+---
+
+## AI workspace
+
+My portable `.agents` setup — one source of truth for skills, commands, scripts, and prompts, symlinked into every agent CLI. The [`agents`](https://github.com/pooriaarab/agents) repo is the hub.
+
+- **[agents](https://github.com/pooriaarab/agents)** - The hub — a portable `.agents` folder symlinked into every agent CLI.
+- **[skills](https://github.com/pooriaarab/skills)** - Reusable agent skills for AI-aware development and life organization.
+- **[clis](https://github.com/pooriaarab/clis)** - Working CLIs for ad-platform APIs, hand-verified against live accounts.
+- **[commands](https://github.com/pooriaarab/commands)** - Slash commands and shortcuts for agent CLIs.
+- **[scripts](https://github.com/pooriaarab/scripts)** - Automation scripts that run my agent ops.
+- **[prompts](https://github.com/pooriaarab/prompts)** - Prompts I have refined and reuse across agent CLIs.

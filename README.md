@@ -17,6 +17,19 @@
 
 ---
 
+## AI workspace
+
+My portable `.agents` setup — one source of truth for skills, commands, scripts, and prompts, symlinked into every agent CLI. The [`agents`](https://github.com/pooriaarab/agents) repo is the hub.
+
+- **[agents](https://github.com/pooriaarab/agents)** - The hub — a portable `.agents` folder symlinked into every agent CLI.
+- **[skills](https://github.com/pooriaarab/skills)** - Reusable agent skills for AI-aware development and life organization.
+- **[clis](https://github.com/pooriaarab/clis)** - Working CLIs for ad-platform APIs, hand-verified against live accounts.
+- **[commands](https://github.com/pooriaarab/commands)** - Slash commands and shortcuts for agent CLIs.
+- **[scripts](https://github.com/pooriaarab/scripts)** - Automation scripts that run my agent ops.
+- **[prompts](https://github.com/pooriaarab/prompts)** - Prompts I have refined and reuse across agent CLIs.
+
+---
+
 ## Projects
 
 - **[vibedate](https://github.com/pooriaarab/vibedating)** - Dating by tokens — matched by usage league across agentic CLIs. Local-first.
@@ -27,10 +40,8 @@
 - **[vibeshare-live](https://github.com/pooriaarab/vibeshare)** - Share a live agent coding session by URL — spectate read-only or invite into the session.
 - **[vibenetwork](https://github.com/pooriaarab/vibenetwork)** - Decentralized social network for AI coders — P2P, verified-by-usage ed25519 identity.
 - **[offrouter](https://github.com/pooriaarab/offrouter)** - model routing to subscriptionmaxx, local-first
-- **[clis](https://github.com/pooriaarab/clis)** - Working CLIs for ad-platform APIs (Google Ads, Reddit Ads, Meta Ads) — generated from each platform's real API spec, hand-verified against live accounts.
-- **[skills](https://github.com/pooriaarab/skills)** - Claude Code skills for AI-aware development and life organization.
-- **[slackclaw](https://github.com/pooriaarab/slackclaw)** - Mirrors your Slack workspace into local SQLite with full-text search — no bot token, no admin approval, reads Slack Desktop's own local cache.
-- **[VibeNotifications](https://github.com/pooriaarab/vibenotifications)** - Real-time notifications for Claude Code — GitHub, Slack, stocks, and more.
+- **[slackclaw](https://github.com/pooriaarab/slackclaw)** - Mirrors your Slack workspace into local SQLite with full-text search — no bot token, no admin approval, reads Slack Desktop's own local cache.
+- **[VibeNotifications](https://github.com/pooriaarab/vibenotifications)** - Real-time notifications for Claude Code — GitHub, Slack, stocks, and more.
 - **[VibeAds](https://github.com/pooriaarab/vibeads)** - Contextual dev tool discovery for Claude Code, powered by a16z portfolio.
 - **[GitMarkdown](https://github.com/pooriaarab/gitmarkdown)** - Collaborative markdown editor with two-way GitHub sync. Google Docs meets GitHub.
 - **[X Article to Video](https://github.com/pooriaarab/x-article-to-video)** - Turn X articles into videos powered by Grok.

@@ -19,6 +19,7 @@
 
 ## Projects
 
+- **[vibecodereview](https://github.com/pooriaarab/vibecodereview)** - A council of AI models reviews your PR. Many models, one self-healing check.
 - **[vibedate](https://github.com/pooriaarab/vibedating)** - Dating by tokens — matched by usage league across agentic CLIs. Local-first.
 - **[vibedonate](https://github.com/pooriaarab/vibedonate)** - BitTorrent-style mesh for AI inference — donate spare local compute across agentic CLIs.
 - **[vibelive](https://github.com/pooriaarab/vibelive)** - Multiplayer for agentic coding terminals — shared sessions with live cursors, presence, and chat.
